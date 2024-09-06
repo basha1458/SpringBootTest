@@ -13,7 +13,7 @@ public class MessageRunner implements CommandLineRunner {
 			log.info("STARTED");
 			int a = 10;
 			System.out.println("MessageRunnerApp");
-			System.out.println("MessageRunnerApp");
+			
 
 		} catch (Exception e) {
 			e.printStackTrace();
